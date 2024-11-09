@@ -3,7 +3,8 @@
 ## Project Overview
 ---
 This research aims to develop sophisticated time series forecasting models (ARIMA and SARIMA) for Coventry's air quality by integrating both pollutant measurements and meteorological data. The project will analyze:
-Pollutant Dynamics
+
+# **Pollutant Dynamics**
 
 ### Primary Pollutants
 
